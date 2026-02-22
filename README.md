@@ -5,7 +5,7 @@ Create new repository
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Abdul Hazad | Automotive & Logistics Professional Dubai</title>
+<title>Abdul Hazad | Automotive & Logistics Professional </title>
 <meta name="description" content="Abdul Hazad is a Dubai-based professional specializing in automotive logistics, vehicle transportation, and office support services. Reliable and disciplined.">
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -213,7 +213,7 @@ footer {
   </div>
 
   <div class="glass-card">
-    <strong>Driver – Ghassan Aboud Cars, Dubai</strong><br>
+    <strong> – Ghassan Aboud Cars, Dubai</strong><br>
     Safe vehicle transport, staff pickup, maintenance checks, and showroom support.
   </div>
 
@@ -240,12 +240,12 @@ footer {
   <h2>Contact</h2>
   <div class="glass-card">
     Email: abdulhazadofficial@gmail.com<br>
-    Location: Dubai, UAE
+    Location: IND,Manglore -Dubai, UAE
   </div>
 </section>
 
 <footer>
-  © 2026 Abdul Hazad | Dubai, UAE
+  © 2026 Abdul Hazad | IND , UAE
 </footer>
 
 </body>

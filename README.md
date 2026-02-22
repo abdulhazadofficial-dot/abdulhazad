@@ -186,11 +186,11 @@ footer {
   <h1>Reliable <span>Automotive & Office Support</span> Professional in Dubai</h1>
   <p>Delivering Precision, Responsibility, and Consistency in Every Task.</p>
 
-  <a href="#" class="btn btn-primary">Download Resume</a>
-  <a href="#contact" class="btn btn-outline">Contact Me</a>
+  
+  <a href="#contact" class="btn btn-outline">Contact Me</a>  <div class="social">
+    <a href="https://instagram.com/hazadd___"
 
-  <div class="social">
-    <a href="https://instagram.com/hazadd___" target="_blank"><i class="fab fa-instagram"></i></a>
+ target="_blank"><i class="fab fa-instagram"></i></a>
     <a href="#"><i class="fab fa-x-twitter"></i></a>
     <a href="#"><i class="fab fa-facebook-f"></i></a>
     <a href="https://abdulhazad.ae"><i class="fas fa-globe"></i></a>
